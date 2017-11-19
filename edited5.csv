@@ -1,6 +1,6 @@
-Country Code,Indicator Name,Indicator_Code,2010,2011,2012,2013,2014,2015
+Country_Code,Indicator_Name,Indicator_Code,2010,2011,2012,2013,2014,2015
 TKM,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,0.037214777,0.044545708,0.053355958,0.06302996,0.071165296,0.080046898
-ZAR,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,0.002716407,0.002882916,0.003299397,0.003485962,0.003780361,0.00437007
+COD,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,0.002716407,0.002882916,0.003299397,0.003485962,0.003780361,0.00437007
 FJI,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,0.03304962,0.033572026,0.037895928,0.043904277,0.046025895,0.051161799
 SMR,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,,,,,,
 LVA,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,0.114089098,0.122198456,0.129996229,0.14056906,0.145071354,0.158814752
@@ -326,7 +326,7 @@ SYR,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.156862745,0.153333333,0.
 GIN,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.021447721,0.021355617,0.020192308,0.019920319,0.020618557,0.020277481
 GRC,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.510638298,0.489361702,0.446808511,0.425531915,0.434782609,0.413043478
 VGB,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,,,,,,
-ZAR,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.020671835,0.020499109,0.019354839,0.019083969,0.019665683,0.019328586
+COD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.020671835,0.020499109,0.019354839,0.019083969,0.019665683,0.019328586
 CHL,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.272727273,0.264367816,0.244186047,0.238095238,0.240963855,0.234567901
 UKR,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,0.203389831,0.205357143,0.198113208,0.2,0.210526316,0.211111111
 MAF,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,,,,,,
@@ -533,7 +533,7 @@ SVN,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.444444444,0
 COL,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.08,0.082474227,0.085106383,0.076923077,0.079545455,0.082352941
 JPN,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.727272727,0.8,0.8,0.7,0.7,0.777777778
 BEL,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.347826087,0.347826087,0.347826087,0.318181818,0.318181818,0.318181818
-ZAR,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.024316109,0.024767802,0.025236593,0.022435897,0.022875817,0.023255814
+COD,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.024316109,0.024767802,0.025236593,0.022435897,0.022875817,0.023255814
 JAM,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.059259259,0.061068702,0.062992126,0.056451613,0.058333333,0.060344828
 MNG,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.053691275,0.057553957,0.061538462,0.056910569,0.05982906,0.063063063
 LKA,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,0.125,0.131147541,0.13559322,0.122807018,0.125,0.12962963
@@ -785,7 +785,7 @@ DNK,"Improved water source, rural (% of rural population with access)",SH.H2O.SA
 IRN,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.909,0.913,0.917,0.921,0.921,0.921
 SEN,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.621,0.632,0.642,0.652,0.663,0.673
 MNE,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.974,0.977,0.981,0.984,0.988,0.992
-ZAR,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.297,0.3,0.303,0.306,0.309,0.312
+COD,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.297,0.3,0.303,0.306,0.309,0.312
 ASM,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,1,1,1,1,1,1
 TON,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.993,0.994,0.995,0.995,0.996,0.996
 TMP,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS,0.587,0.596,0.605,0.605,0.605,0.605
@@ -866,7 +866,7 @@ CZE,"Improved water source, urban (% of urban population with access)",SH.H2O.SA
 TUR,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.997,1,1,1,1,1
 MDA,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.969,0.969,0.969,0.969,0.969,0.969
 TMP,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.908,0.93,0.952,0.952,0.952,0.952
-ZAR,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.823,0.821,0.818,0.816,0.813,0.811
+COD,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.823,0.821,0.818,0.816,0.813,0.811
 HRV,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.997,0.997,0.997,0.996,0.996,0.996
 TJK,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.928,0.929,0.93,0.93,0.931,0.931
 TON,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS,0.988,0.99,0.992,0.994,0.997,0.997
@@ -1152,7 +1152,7 @@ BHS,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.981,0.9
 IDN,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.845,0.851,0.857,0.862,0.868,0.874
 NIC,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.85,0.856,0.862,0.868,0.869,0.87
 PER,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.846,0.85,0.855,0.859,0.863,0.867
-ZAR,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.507,0.511,0.514,0.518,0.521,0.524
+COD,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.507,0.511,0.514,0.518,0.521,0.524
 PYF,Improved water source (% of population with access),SH.H2O.SAFE.ZS,1,1,1,1,1,1
 RWA,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.731,0.737,0.743,0.749,0.755,0.761
 COL,Improved water source (% of population with access),SH.H2O.SAFE.ZS,0.91,0.911,0.912,0.913,0.913,0.914
@@ -1422,7 +1422,7 @@ SDN,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.757575758,0
 SMR,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.787878788,0.868686869,0.96969697,0.696969697,0.808080808,0.757575758
 DEU,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.888888889,0.888888889,0.888888889,0.888888889,0.888888889,0.888888889
 UZB,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,1,1,1,1,1,1
-ZAR,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
+COD,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
 BWA,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.95959596,0.95959596,0.95959596,0.95959596,0.95959596,0.95959596
 GMB,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,0.97979798,0.96969697,0.98989899,0.97979798,0.96969697,0.97979798
 DNK,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,,,,,,
@@ -1597,7 +1597,7 @@ TMP,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,,,,0.8282
 NRU,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,1,1,0.797979798,0.878787879,0.95959596,0.919191919
 IRN,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,,,,,0.98989899,0.98989899
 DNK,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,0.909090909,0.919191919,0.949494949,0.949494949,0.949494949,0.939393939
-ZAR,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
+COD,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
 MDV,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,,,,0.585858586,1,1
 ROM,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,,0.898989899,0.929292929,0.929292929,0.929292929,0.929292929
 MNE,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3,0.909090909,0.909090909,0.949494949,0.949494949,0.919191919,0.898989899
@@ -1809,7 +1809,7 @@ SMR,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,,,,,,
 GTM,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,1,0.919191919,0.949494949,0.888888889,0.919191919,0.898989899
 PER,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,0.95959596,0.919191919,0.95959596,0.95959596,0.949494949,0.919191919
 COG,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,0.95959596,0.95959596,0.929292929,0.929292929,0.95959596,0.858585859
-ZAR,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,0.858585859,0.666666667,0.838383838,0.838383838,0.787878788,0.747474747
+COD,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,0.858585859,0.666666667,0.838383838,0.838383838,0.787878788,0.747474747
 IRQ,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,0.909090909,0.929292929,0.95959596,0.97979798,0.95959596,0.95959596
 GRD,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,,,,,,
 IRN,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG,1,1,1,1,1,1
@@ -1943,7 +1943,7 @@ DNK,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.90909090
 LIE,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,,,,,,
 AFG,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.666666667,0.686868687,0.676767677,0.707070707,0.757575758,0.787878788
 BWA,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.95959596,0.95959596,0.95959596,0.95959596,0.95959596,0.95959596
-ZAR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
+COD,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.606060606,0.747474747,0.757575758,0.747474747,0.808080808,0.818181818
 BMU,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,,,,,,
 SYR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.808080808,0.727272727,0.454545455,0.414141414,0.434343434,0.414141414
 SMR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,0.797979798,0.868686869,0.96969697,0.696969697,0.808080808,0.767676768
@@ -2304,7 +2304,7 @@ ABW,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,,,,,,
 ATG,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,0.98989899,1,0.98989899,0.98989899,0.98989899,0.98989899
 VGB,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,,,,,,
 QAT,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,1,0.98989899,0.97979798,1,1,1
-ZAR,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,0.747474747,0.747474747,0.727272727,0.767676768,0.777777778,0.797979798
+COD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,0.747474747,0.747474747,0.727272727,0.767676768,0.777777778,0.797979798
 MNP,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,,,,,,
 ALB,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,1,1,0.98989899,1,0.98989899,0.98989899
 NLD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,0.96969697,0.96969697,0.96969697,0.96969697,0.96969697,0.95959596
@@ -2527,7 +2527,7 @@ MHL,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.95959596,0.8
 FRO,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,,,,,,
 PHL,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.787878788,0.808080808,0.868686869,0.888888889,0.848484848,0.797979798
 TMP,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.727272727,0.666666667,0.838383838,0.828282828,0.767676768,0.757575758
-ZAR,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.767676768,0.777777778,0.767676768,0.747474747,0.797979798,0.787878788
+COD,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.767676768,0.777777778,0.767676768,0.747474747,0.797979798,0.787878788
 ISR,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.95959596,0.949494949,0.949494949,0.949494949,0.949494949,0.96969697
 MEX,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.95959596,0.97979798,1,0.838383838,0.878787879,0.878787879
 MRT,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,0.525252525,0.737373737,0.808080808,0.808080808,0.848484848,0.676767677
@@ -2572,7 +2572,7 @@ SOM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.000856114,0.000876896,0
 BGR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.281535831,0.283570027,0.310313375,0.269925222,0.265984136,0.260910247
 GRD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.070805745,0.069507967,0.068888122,0.063554813,0.063158783,0.063520461
 CZE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.663626758,0.667126262,0.69625132,0.643475769,0.637488391,0.623938985
-ZAR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.000942372,0.00097336,0.000990272,0.000960202,0.000998147,0.001032118
+COD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.000942372,0.00097336,0.000990272,0.000960202,0.000998147,0.001032118
 DNK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.371767513,0.355701316,0.412786624,0.394653415,0.399172713,0.400749533
 MKD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.389460433,0.415510205,0.389274547,0.364737094,0.362229872,0.358671535
 TGO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00239944,0.002402032,0.002459073,0.002340771,0.002393391,0.002457963
@@ -2990,7 +2990,7 @@ CYM,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.9
 ETH,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.217,0.23,0.243,0.255,0.268,0.28
 SLV,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.71,0.718,0.726,0.734,0.742,0.75
 ITA,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.995,0.995,0.995,0.995,0.995,0.995
-ZAR,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.268,0.272,0.276,0.279,0.283,0.287
+COD,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.268,0.272,0.276,0.279,0.283,0.287
 MWI,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.388,0.392,0.397,0.401,0.406,0.41
 IRL,Improved sanitation facilities (% of population with access),SH.STA.ACSN,0.901,0.902,0.903,0.904,0.905,0.905
 MAF,Improved sanitation facilities (% of population with access),SH.STA.ACSN,,,,,,
@@ -3205,7 +3205,7 @@ FRA,"Improved sanitation facilities, rural (% of rural population with access)",
 NZL,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,,,,,,
 NGA,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.28,0.275,0.27,0.265,0.259,0.254
 ETH,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.209,0.223,0.238,0.253,0.267,0.282
-ZAR,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.255,0.261,0.268,0.274,0.281,0.287
+COD,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.255,0.261,0.268,0.274,0.281,0.287
 GTM,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.469,0.477,0.485,0.493,0.493,0.493
 MKD,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.834,0.831,0.828,0.826,0.826,0.826
 THA,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU,0.961,0.961,0.961,0.961,0.961,0.961
@@ -3256,7 +3256,7 @@ MDV,"Improved sanitation facilities, urban (% of urban population with access)",
 KWT,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,1,1,1,1,1,1
 SLE,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.225,0.226,0.227,0.227,0.228,0.228
 DZA,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.903,0.902,0.901,0.9,0.899,0.898
-ZAR,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.289,0.288,0.287,0.287,0.286,0.285
+COD,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.289,0.288,0.287,0.287,0.286,0.285
 SMR,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,,,,,,
 ARG,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.95,0.952,0.954,0.957,0.959,0.962
 PRT,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR,0.992,0.993,0.994,0.995,0.996,0.996
@@ -3508,7 +3508,7 @@ ARG,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.ST
 BDI,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.003712871,0.003768844,0.003846154,0.003947368,0.004070556,0.004213483
 NZL,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.230769231,0.25,0.25,0.25,0.272727273,0.272727273
 KAZ,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.15,0.176470588,0.2,0.230769231,0.25,0.25
-ZAR,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.003778338,0.003861004,0.003891051,0.004021448,0.0041841,0.004329004
+COD,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.003778338,0.003861004,0.003891051,0.004021448,0.0041841,0.004329004
 MKD,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.375,0.428571429,0.375,0.375,0.375,0.375
 CZE,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.6,0.6,0.75,0.75,0.75,0.75
 ETH,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,0.005736138,0.006224066,0.006711409,0.007317073,0.007936508,0.008498584
@@ -3850,7 +3850,7 @@ VUT,"People practicing open defecation, rural (% of rural population)",SH.STA.OD
 BFA,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0.00131406,0.00132626,0.001338688,0.001338688,0.001338688,0.001338688
 WBG,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0.083333333,0.166666667,0,0,0,0
 BLR,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0,0,0,0,0,0
-ZAR,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0.006024096,0.006097561,0.006134969,0.00621118,0.00625,0.006329114
+COD,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,0.006024096,0.006097561,0.006134969,0.00621118,0.00625,0.006329114
 NZL,People practicing open defecation (% of population),SH.STA.ODFC.ZS,,,,,,
 CMR,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.015384615,0.015873016,0.016393443,0.016949153,0.017241379,0.017241379
 TUN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.03030303,0.037037037,0.05,0.076923077,0.142857143,0.142857143
@@ -3892,7 +3892,7 @@ KAZ,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0
 SDN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.00210084,0.002159827,0.002159827,0.002164502,0.002169197,
 VCT,People practicing open defecation (% of population),SH.STA.ODFC.ZS,,,,,,
 ALB,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.333333333,0.333333333,0.5,0.5,0,0
-ZAR,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.009009009,0.009174312,0.009345794,0.00952381,0.009615385,0.009803922
+COD,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.009009009,0.009174312,0.009345794,0.00952381,0.009615385,0.009803922
 CZE,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0,0,0,0,0,0
 MRT,People practicing open defecation (% of population),SH.STA.ODFC.ZS,0.002645503,0.002702703,0.002762431,0.002832861,0.002857143,0.002890173
 MNE,People practicing open defecation (% of population),SH.STA.ODFC.ZS,1,1,1,1,1,1
@@ -4129,7 +4129,7 @@ MUS,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.91,0.9
 SVN,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.82,0.81,0.81,0.77,0,0
 PHL,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.9,0.87,0.88,0.9,0,0
 BHS,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.69,0.65,0.84,0.76,0,0
-ZAR,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.89,0.87,0.88,0.87,0,0
+COD,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.89,0.87,0.88,0.87,0,0
 MNG,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.91,0.9,0.88,0.89,0,0
 GIN,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,0.8,0.84,0.82,0.79,0,0
 KGZ,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,,0.84,,0.85,0,0
@@ -4397,7 +4397,7 @@ TUV,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.275862069,0.66
 URY,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.289655172,0.775,0.3625,0.375,0.436842105,0
 BIH,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.2,0.533333333,0.3,0.295833333,0.394736842,0
 UKR,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.231034483,0.6,0.375,0.35,0.394736842,0
-ZAR,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.182758621,0.408333333,0.195833333,0.2,0.252631579,0
+COD,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.182758621,0.408333333,0.195833333,0.2,0.252631579,0
 DNK,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.306896552,0.8,0.375,0.354166667,0.384210526,0
 GHA,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.113793103,0.291666667,0.1375,0.141666667,0.173684211,0
 BLZ,Tuberculosis case detection rate (all forms),SH.TBS.DTEC.ZS,0.448275862,0.516666667,0.283333333,0.4,0.289473684,0
@@ -4642,7 +4642,7 @@ TON,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.070588235,0.0
 POL,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.054545455,0.036190476,0.035714286,0.042857143,0.033809524,0
 SGP,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.032432432,0.019487179,0.017857143,0.02,0.014489796,0
 ZWE,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.002884615,0.001979167,0.002112676,0.002960526,0.002553957,0
-ZAR,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.003669725,0.002324159,0.002293578,0.002760736,0.002184615,0
+COD,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.003669725,0.002324159,0.002293578,0.002760736,0.002184615,0
 TMP,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.002409639,0.001526104,0.001506024,0.001807229,0.001425703,0
 MNE,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.06,0.038,0.041666667,0.040909091,0.033809524,0
 CZE,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,0.173913043,0.120634921,0.131578947,0.176470588,0.154347826,0
@@ -4758,7 +4758,7 @@ SWZ,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.002444444,0.001
 SWE,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.6875,1,0.470588235,0.230769231,0.230769231,0
 KWT,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.091666667,0.152542373,0.106666667,0.285714286,0.375,0
 HRV,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.057894737,0.06,0.057142857,0.046153846,0.054545455,0
-ZAR,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.001774194,0.001428571,0.001230769,0.000895522,0.000869565,0
+COD,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.001774194,0.001428571,0.001230769,0.000895522,0.000869565,0
 GRL,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.006875,0.005625,0.005,0.00375,0.00375,0
 TGO,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.01,0.009,0.008,0.006185567,0.006818182,0
 BHR,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT,0.13253012,0.45,0.205128205,0.127659574,0.142857143,0
@@ -4960,7 +4960,7 @@ DNK,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.19047619
 MOZ,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.003238866,0.000675676,0.000622711,0.001033868,0.000758123,0
 ZMB,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.003773585,0.000752688,0.000726496,0.001274725,0.000963303,0
 PRK,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.003232323,0.000690335,0.000652591,0.00108209,0.00076087,0
-ZAR,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.003155819,0.000683594,0.000656371,0.00110687,0.000789474,0
+COD,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.003155819,0.000683594,0.000656371,0.00110687,0.000789474,0
 LVA,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.026666667,0.005932203,0.005666667,0.009666667,0.007368421,0
 UKR,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.011267606,0.002573529,0.00265625,0.00487395,0.003684211,0
 HTI,"Prevalence of tuberculosis (per 100,000 population)",SH.TBS.PREV,0.005405405,0.00125448,0.001283019,0.002283465,0.001721311,0
@@ -5336,7 +5336,7 @@ PRK,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,,,,,,0
 COM,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.009622561,0.009985748,0.011550065,0.010606181,0.010722225,0
 CHE,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.652371817,0.682644501,0.702298035,0.70814941,0.687952155,0
 GIB,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,,,,,,0
-ZAR,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.002856509,0.002559333,0.002793347,0.003008508,0.003433162,0
+COD,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.002856509,0.002559333,0.002793347,0.003008508,0.003433162,0
 SRB,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.144270908,0.143409861,0.144101931,0.146534151,0.139560533,0
 DJI,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.028029709,0.028441513,0.029310258,0.030789168,0.03594337,0
 IRN,"Health expenditure per capita, PPP",SH.XPD.PCAP.PP.KD,0.161457487,0.145803222,0.130144293,0.116268462,0.115040388,0
@@ -5419,7 +5419,7 @@ PRY,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS
 DNK,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.563597939,0.607014099,0.616311833,0.697138543,0.600768263,0
 PRI,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,,,,,,0
 MYS,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.232727548,0.240368368,0.221899572,0.244266633,0.231042273,0
-ZAR,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.269534885,0.270697132,0.451106843,0.385823027,0.396064691,0
+COD,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.269534885,0.270697132,0.451106843,0.385823027,0.396064691,0
 GNQ,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.23996599,0.262984357,0.27049511,0.289202537,0.249224071,0
 TMP,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.156719462,0.090006755,0.080642398,0.119357432,0.087546912,0
 CHN,"Health expenditure, public (% of government expenditure)",SH.XPD.PUBL.GX.ZS,0.35309852,0.401322496,0.407676082,0.427534182,0.37372444,0
@@ -5680,7 +5680,7 @@ IRL,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.505388367,0.47384985
 LAO,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.158398012,0.127786855,0.124512317,0.115996699,0.108836838,0
 PAN,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.464211848,0.436390173,0.425753029,0.469060569,0.468224644,0
 KOR,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.391939017,0.3974777,0.412084211,0.417492855,0.430150996,0
-ZAR,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.233224849,0.205638332,0.221260278,0.225471244,0.252511268,0
+COD,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.233224849,0.205638332,0.221260278,0.225471244,0.252511268,0
 TON,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.265011459,0.236210578,0.26507895,0.289131968,0.302015333,0
 CYP,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.417301292,0.438478805,0.437134614,0.432676132,0.429830069,0
 AGO,"Health expenditure, total (% of GDP)",SH.XPD.TOTL.ZS,0.195622952,0.196605088,0.194201331,0.247297822,0.192931003,0
@@ -5963,7 +5963,7 @@ SLE,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.920427581
 PRK,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.886916304,0.886788151,0.88592894,0.886499728,0.887217792,0
 MRT,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.48806265,0.488906435,0.491708779,0.492962274,0.495953374,0
 DNK,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.870246271,0.872883381,0.875627847,0.88162228,0.883918265,0
-ZAR,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.920118482,0.920138213,0.920618879,0.921422589,0.920975793,0
+COD,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.920118482,0.920138213,0.920618879,0.921422589,0.920975793,0
 KHM,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.927054351,0.925329149,0.92511094,0.924110292,0.923455543,0
 CYM,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,,,,,,0
 PAN,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,0.688791093,0.690872366,0.693274877,0.694487997,0.697138392,0
@@ -6017,7 +6017,7 @@ BLR,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.0638297
 BEL,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.035294119,0.041666669,0.027027027,0.037037037,0.04761905,0
 BDI,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.039473686,0.040000002,0.026666667,0.040000002,0.053333334,0
 CAF,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.041095891,0.041095891,0.02739726,0.036585368,0.051948054,0
-ZAR,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.03125,0.03125,0.020833333,0.03125,0.042553194,0
+COD,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.03125,0.03125,0.020833333,0.03125,0.042553194,0
 CMR,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.061224491,0.061224491,0.040816326,0.0625,0.078431375,0
 NOR,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,0.100000004,0.0967742,0.071428574,0.090909096,0.121212125,0
 SXM,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,,,,,,0
@@ -6358,7 +6358,7 @@ CHN,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.041666666,0
 ECU,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.050000001,0.0625,0.057142858,0.030303031,0.028571429,0
 KEN,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.024390245,0.024691357,0.025,0.0125,0.0125,0
 SLE,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.044444445,0.044444445,0.044444445,0.021739131,0.022727272,0
-ZAR,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.028985507,0.028985507,0.028985507,0.014492754,0.014925374,0
+COD,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.028985507,0.028985507,0.028985507,0.014492754,0.014925374,0
 MNP,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,,,,,,0
 AZE,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.045454545,0.04761905,0.050000001,0.025,0.023255813,0
 JPN,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,0.037735848,0.041666666,0.044444445,0.023255813,0.025641025,0
@@ -6547,7 +6547,7 @@ PRI,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.024691357,0.
 CHL,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.049382714,0.042253523,0.03125,0.050000002,0.046875001,0
 MUS,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.051948054,0.037974685,0.022988507,0.037500002,0.038961041,0
 MAR,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.043956043,0.033707868,0.022222223,0.032608698,0.029411766,0
-ZAR,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.04878049,0.036585368,0.024390245,0.036585368,0.037500002,0
+COD,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.04878049,0.036585368,0.024390245,0.036585368,0.037500002,0
 EST,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.02366864,0.024000001,0.01980198,0.034883721,0.038961041,0
 PRT,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.037037037,0.023622049,0.012820513,0.018181819,0.021126762,0
 ARM,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,0.021052632,0.016304349,0.011560694,0.018518518,0.01754386,0
@@ -6714,7 +6714,7 @@ SOM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,,,,,,
 BRB,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,1,1,1,1,1,1
 TKM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,1,1,1,1,1,1
 STP,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,0.806451613,0.847457627,0.847457627,0.819672131,0.78125,0.757575758
-ZAR,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,,,,,,
+COD,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,,,,,,
 DNK,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,,,,,,
 UKR,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,,,,,,
 BWA,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,0.164473684,0.174216028,0.185185185,0.19379845,0.201612903,0.20746888
@@ -6997,7 +6997,7 @@ MDV,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,
 SLV,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.00902858,0.009279792,0.009545897,0.009055037,0.008554597,0
 MAR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.019300333,0.019176141,0.019053307,0.018286433,0.017485766,0
 THA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.01459554,0.014433074,0.014273889,0.013419483,0.012563906,0
-ZAR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.005048192,0.005090239,0.005133074,0.004848722,0.004561263,0
+COD,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.005048192,0.005090239,0.005133074,0.004848722,0.004561263,0
 SLB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.011167328,0.011517886,0.011891892,0.011625336,0.011336255,0
 MLI,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.003579553,0.003573399,0.003567255,0.003383642,0.003196465,0
 EGY,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,0.012228344,0.011945827,0.011675573,0.011195452,0.010695106,0
@@ -7210,7 +7210,7 @@ NPL,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.2
 CAN,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.682260209,0.6651031,,,,0
 CRI,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.563767343,0.552992677,0.541890059,0.537457527,0.532913547,0
 BLR,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.32023143,0.303588283,0.343892516,0.345225229,0.358214095,0
-ZAR,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.139243254,0.137277372,0.135229567,0.134475317,0.133695161,0
+COD,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.139243254,0.137277372,0.135229567,0.134475317,0.133695161,0
 CHN,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.464894457,0.457893419,0.450609658,0.449350578,0.448033903,0
 BRA,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.356798045,0.352072565,0.347140611,0.346067676,0.344947474,0
 PRY,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,0.274065936,0.268534766,0.26284828,0.259269183,0.255640826,0
@@ -7456,7 +7456,7 @@ CHL,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.65716
 TZA,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.218806346,0.190002746,0.220650181,0.223498925,0.226524661,0
 ECU,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.402170797,0.342391494,0.389429731,0.389142555,0.388852263,0
 TCD,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.17456608,0.148182961,0.1680324,0.166128056,0.164207037,0
-ZAR,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.228388992,0.194820297,0.222031886,0.22097133,0.219889125,0
+COD,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.228388992,0.194820297,0.222031886,0.22097133,0.219889125,0
 MLI,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.259146094,0.218423125,0.245897599,0.246372236,0.246868654,0
 SYC,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.282979513,0.239710894,0.271242019,0.269626065,0.267980043,0
 BHR,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,0.885272179,0.750651042,0.850258264,0.847279815,0.844236223,0
@@ -7678,7 +7678,7 @@ GIN,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.214581179,0.21181454
 EGY,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.305754071,0.292778139,0.293035057,0.281820776,0.284203331,0
 SLB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.254953156,0.253775299,0.2624,0.258355681,0.264028609,0
 BEL,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.697478992,0.698275862,0.713043478,0.705357143,0.711711712,0
-ZAR,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.189922658,0.187213979,0.191454588,0.186347125,0.188274547,0
+COD,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.189922658,0.187213979,0.191454588,0.186347125,0.188274547,0
 ECU,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.379047358,0.374462577,0.384002997,0.374940674,0.380154949,0
 PER,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.397547658,0.391796459,0.400977995,0.391127834,0.396705835,0
 GNB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,0.21589845,0.212180747,0.216570266,0.210649815,0.212955225,0
@@ -7825,7 +7825,7 @@ ZMB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.136957126,0.14489934
 NLD,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.180365854,0.183950617,0.178214286,0.176666667,0.178313253,0
 NOR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.174,0.177380952,0.178214286,0.183209877,0.187341772,0
 PLW,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.182592593,0.179518072,0.191923077,0.134909091,,0
-ZAR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.129736842,0.134403752,0.138559793,0.140676841,0.14349428,0
+COD,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.129736842,0.134403752,0.138559793,0.140676841,0.14349428,0
 IDN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.206046252,0.207868304,0.209019827,0.20726257,0.206675045,0
 NRU,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,,,,,,0
 BEN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,0.15016753,0.153402656,0.156067556,0.156606163,0.158102767,0
@@ -7952,7 +7952,7 @@ BDI,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.029780564,
 COG,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.045023697,0.045454545,0.042553191,0.044568245,0.046511628,0.045180723
 KEN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.044811321,0.044665012,0.040816327,0.042105263,0.043715847,0.042253521
 VEN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.132867133,0.127659574,0.115942029,0.118518519,0.121212121,0.11627907
-ZAR,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.02240566,0.021791768,0.019875776,0.020434227,0.020915033,0.020134228
+COD,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.02240566,0.021791768,0.019875776,0.020434227,0.020915033,0.020134228
 KSV,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,,,,,,
 NRU,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.059375,0.057142857,0.051612903,0.052631579,0.053872054,0.051546392
 MEX,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,0.131944444,0.130434783,0.122137405,0.128,0.134453782,0.132743363
@@ -8176,7 +8176,7 @@ IRQ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.825689455,0.8
 DNK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.940903824,0.944636678,0.950121514,0.950403691,0.951668585,0
 PRK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.839490151,0.83899654,0.845457702,0.846182238,0.847617952,0
 IRN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.874959444,0.874463668,0.88053466,0.880322953,0.880678941,0
-ZAR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.676245655,0.678927336,0.686506191,0.689100346,0.692082854,0
+COD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.676245655,0.678927336,0.686506191,0.689100346,0.692082854,0
 TON,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.870915411,0.868835063,0.87363731,0.87254902,0.872359033,0
 IDN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.81438007,0.812687428,0.817474829,0.816851211,0.817146145,0
 KOR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,0.974159907,0.974048443,0.97951626,0.981084198,0.983659379,0
@@ -8555,7 +8555,7 @@ MDV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.916318623,0.91507
 MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.89175486,0.890494109,0.891505537,0.889490559,0.889710153,0
 BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.933127076,0.934194369,0.937375756,0.936956446,0.938427335,0
 KSV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.840554616,0.84089115,0.844479505,0.84452009,0.84659619,0
-ZAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.684181952,0.688051925,0.693025097,0.695106049,0.698486001,0
+COD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.684181952,0.688051925,0.693025097,0.695106049,0.698486001,0
 CPV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.872997167,0.871587872,0.872398107,0.870462599,0.870999942,0
 BFA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.686048775,0.68917171,0.69332749,0.694732769,0.697643762,0
 NAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,0.75133188,0.758519428,0.765222485,0.767536295,0.770181227,0
@@ -8704,7 +8704,7 @@ NIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.878712883,0.878
 SVK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.891272859,0.895910781,0.888480392,0.898890259,0.90270936,0
 LCA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.894198126,0.891995043,0.883860294,0.891011097,0.891637931,0
 NPL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.829419021,0.830879802,0.826666667,0.836522811,0.840049261,0
-ZAR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.690885841,0.693977695,0.691875,0.701220715,0.705012315,0
+COD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.690885841,0.693977695,0.691875,0.701220715,0.705012315,0
 BLZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.835804816,0.83260223,0.823909314,0.829642417,0.829495074,0
 UGA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.680442015,0.683444857,0.681960784,0.692663379,0.698805419,0
 COG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,0.72008872,0.727781908,0.729411765,0.742564735,0.749224138,0
@@ -8788,7 +8788,7 @@ UGA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.17240819,0.18352
 ABW,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.622652582,0.657210402,0.69047619,0.67345716,0.727217864,0
 BIH,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.823757764,0.864696734,0.90625,0.883647799,0.954077593,0
 COG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.211354582,0.222667201,0.233823826,0.228501728,0.247484083,0
-ZAR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.166144692,0.1766762,0.187126956,0.184171719,0.200632701,0
+COD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.166144692,0.1766762,0.187126956,0.184171719,0.200632701,0
 BFA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.180841998,0.192387543,0.203759002,0.200463706,0.218257562,0
 TON,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.271147457,0.287784679,0.30406291,0.298301486,0.323750672,0
 DOM,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.408548325,0.433021807,0.456872785,0.447808765,0.485887097,0
@@ -8994,7 +8994,7 @@ CIV,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.447708894,0.4
 MWI,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.579761481,0.611860256,0.643833517,0.66021207,0.67655327,0
 BDI,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.57401528,0.581986914,0.589927358,0.596328099,0.602714137,0
 NPL,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.783058427,0.789847651,0.796610386,0.802696417,0.808768567,0
-ZAR,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.604865936,0.611928983,0.61896428,0.624172506,0.629368854,0
+COD,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.604865936,0.611928983,0.61896428,0.624172506,0.629368854,0
 MLI,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.572792213,0.57776607,0.58272055,0.590203584,0.597669551,0
 VGB,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,,,,,,0
 SOM,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,0.556146417,0.560116106,0.564070234,0.568516524,0.572952674,0
@@ -9330,7 +9330,7 @@ KOR,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.94503552,0.9464
 JPN,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.9749228,0.974452339,0.973985147,0.973616973,0.973250483,0
 COM,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.637807454,0.642350251,0.646860373,0.650111839,0.653347456,0
 KIR,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.672628898,0.672153198,0.671680837,0.673559405,0.675428816,0
-ZAR,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.574100913,0.580766047,0.587383283,0.5916884,0.595972643,0
+COD,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.574100913,0.580766047,0.587383283,0.5916884,0.595972643,0
 KEN,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.588709056,0.600551474,0.612308722,0.61860411,0.624868923,0
 COG,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.598672937,0.613483223,0.628187261,0.63567932,0.643134861,0
 LCA,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,0.816270155,0.816338387,0.816406038,0.817137598,0.817865592,0
@@ -9544,7 +9544,7 @@ NZL,Rural population (% of total population),SP.RUR.TOTL.ZS,0.097217203,0.085981
 LBR,Rural population (% of total population),SP.RUR.TOTL.ZS,0.025766777,0.022920204,0.020482326,0.018383289,0.016590389,0.01503012
 THA,Rural population (% of total population),SP.RUR.TOTL.ZS,0.024052217,0.021755851,0.019768183,0.01803792,0.016546649,0.01523395
 CAF,Rural population (% of total population),SP.RUR.TOTL.ZS,0.021987184,0.019486271,0.017352079,0.015520661,0.013960592,0.012607775
-ZAR,Rural population (% of total population),SP.RUR.TOTL.ZS,0.022393154,0.019946942,0.01784928,0.016040588,0.014494002,0.013146454
+COD,Rural population (% of total population),SP.RUR.TOTL.ZS,0.022393154,0.019946942,0.01784928,0.016040588,0.014494002,0.013146454
 PRK,Rural population (% of total population),SP.RUR.TOTL.ZS,0.033802463,0.029936498,0.02664038,0.023813751,0.021407662,0.019322684
 LSO,Rural population (% of total population),SP.RUR.TOTL.ZS,0.017874467,0.015893614,0.014197198,0.01273583,0.011487345,0.010400616
 BMU,Rural population (% of total population),SP.RUR.TOTL.ZS,0,0,0,0,0,0
@@ -9768,7 +9768,7 @@ CHL,Urban population growth (annual %),SP.URB.GROW,0.125847983,0.140867985,0.122
 FRA,Urban population growth (annual %),SP.URB.GROW,0.075529608,0.084200287,0.07389538,0.074517436,0.124720793,0.118107606
 CHN,Urban population growth (annual %),SP.URB.GROW,0.307513308,0.339554229,0.288109584,0.282612201,0.323199229,0.419274428
 COM,Urban population growth (annual %),SP.URB.GROW,0.24280985,0.279273909,0.251289813,0.260138651,0.312346565,0.425473382
-ZAR,Urban population growth (annual %),SP.URB.GROW,0.423807268,0.476758382,0.41797845,0.42527234,0.503682609,0.679123232
+COD,Urban population growth (annual %),SP.URB.GROW,0.423807268,0.476758382,0.41797845,0.42527234,0.503682609,0.679123232
 COG,Urban population growth (annual %),SP.URB.GROW,0.337988176,0.36235564,0.306330884,0.305120634,0.360952216,0.494044515
 CRI,Urban population growth (annual %),SP.URB.GROW,0.273375228,0.29623174,0.247262782,0.239495164,0.270083925,0.34776706
 CIV,Urban population growth (annual %),SP.URB.GROW,0.354522742,0.40468166,0.35963413,0.368340595,0.434458442,0.579867474
@@ -9853,7 +9853,7 @@ CRI,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.71734,0.72866,0.7394,0.749
 VCT,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.48785,0.4914,0.49495,0.49848,0.502,0.5055
 COG,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.63228,0.63666,0.641,0.64531,0.64957,0.6538
 AFG,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.24689,0.25074,0.25468,0.25871,0.26282,0.26703
-ZAR,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.39937,0.40442,0.4095,0.41461,0.41976,0.42494
+COD,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.39937,0.40442,0.4095,0.41461,0.41976,0.42494
 SDN,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.3308,0.33188,0.33315,0.3346,0.33623,0.33806
 ARG,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.90966,0.91133,0.91295,0.91452,0.91604,0.91751
 COM,Urban population (% of total),SP.URB.TOTL.IN.ZS,0.27918,0.27966,0.28029,0.28104,0.28193,0.28296

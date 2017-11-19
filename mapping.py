@@ -1,17 +1,21 @@
+##This module uses plotly to generate a chloropleth map representing user generated
+## indices to the user
+
 import plotly.offline as py
 import pandas as pd
+import webbrowser
 
-#read csv in 
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv')
+# Read in CSV
+df = pd.read_csv('./index.csv')
 
-#function to plot map takes dataframe and index name as arguemtns
+# Function to actually generate the chloropleth map
 def plot(df, str):
     data = [ dict(
             type = 'choropleth', 
-            locations = df['CODE'],
+            locations = df['Country_Code'],
             z = df[str],
-            text = '<b>' + df['COUNTRY'] + '</b> <br>' + df['CODE'],
-            colorscale = [[0,"rgb(165, 0, 38)"],[0.1,"rgb(215, 48, 39"],[0.2,"rgb(244, 109, 67)"],\
+            text = df['Country_Code'],
+            colorscale = [[0.0, "rgb(240,240,240)"],[0.01,"rgb(165, 0, 38)"],[0.1,"rgb(215, 48, 39"],[0.2,"rgb(244, 109, 67)"],\
                 [0.3,"rgb(253, 174, 97)"],[0.4,"rgb(254, 224, 144)"],[0.5,"rgb(255, 255, 191)"],\
                 [0.6,"rgb[224, 243, 248]"],[0.7,"rgb(171, 217, 233"],[0.8,"rgb(116, 173, 209)"],\
                 [0.9,"rgb[69, 117, 180]"],[1.0,"rgb[49, 54, 149]"]],
@@ -39,6 +43,5 @@ def plot(df, str):
         )
     )
     fig = dict( data=data, layout=layout)
-    py.plot( fig, validate=False, filename='d3-world-map.html' )
-
-plot(df, 'GDP (BILLIONS)')
+    #auto_open=False required so that browser doesn't open on application launch
+    py.plot( fig, validate=False, filename='d3-world-map.html', auto_open=False)
