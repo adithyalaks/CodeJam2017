@@ -1,13 +1,27 @@
-# CodeJam2017
+# CodeJam2017 - Development Index Generator and Visualizer
 
-We will break up the repository as follows 
+## Overview
 
-Prelimenary stage: 
-  1. Use already computed indices --> parse them --> output data structure containing a sorted list of tuples containing a country and its      index value. Create a script for this that can be imported as a module, and that we can use in a main script. Assume that if we a          country's index could not be computed due to a lack of data, then we will assign its index a value of 0.  
-  2. Use input from 1. and generate a colored map. This involves generating a color scheme from 0 to 1, figuring out how to identify the        countries from a map, and fill in their respective areas without a color corresponding to the index value. 
+The aim of this project is to allow users to assign weights to various metrics of development using the **Health, Nutrition and Population Data Sheet** provided in the CodeJam competition. Essentially, creating their own index for development.
 
-Secondary stage: 
-  1. Compute a user-requested index. The user will use a front end application (described later on) to identify metrics they are interested in, as well as the weights they'd like to assign to each metric. Note that different metrics have different ways of being processed (like life expectancy vs. child mortality rate), and we should limit the number of metrics the user can choose from to some limited number (and increase the number of metrics later on). Ideally choose a variety of metrics, that need to be treated differently to show data usage prowess. 
- 2. Map generation would remain relatively constant from Prelimenary stage part 2. A bonus would be to hover over a country and see its data and rank in a bubble of sorts (so make the map interactive). 
- 3. UI- Allow user to request for a map to be generated, and allow them to enter choices of metrics plus weights assigned to each metric.     This UI would return a map (potentially interactive). 
+The program will then generate a chloropleth map representing a global view of countries' indices with the passed weights. This map is generated using plotly's offline plot function.
+
+The program provides a simple GUI for users to easily be able to interact.
+
+## Dependencies
+
+Dependencies may be installed using
+	`python3 -m pip install --user -r requirements.txt`
+
+Note that PyQT5 must be installed manually from the RiverBank Software [website](https://www.riverbankcomputing.com/software/pyqt/download5)
+
       
+## Example output
+An example output of a user-defined index is in this repository, and is called `index.csv`. Additionally, an example html file containing the visual (chlorophleth map) is `d3-world-map.html`.
+
+## Key Features
+1. Seamless visualisation of a user-generated index.
+2. User has the ability to generate between single and five-  dimensional indices. 
+3. User has the option of over 48 different development metrics, encompassing a variety of areas pertinent to understanding and measuring standard of living.
+4. All 48 metrics were chosen rigorously from a set of over 324 metrics, primarily chosen on the basis of data completeness and homogeneity. 
+
